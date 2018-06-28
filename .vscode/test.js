@@ -1,5 +1,5 @@
 //Ceci est un fichier js
-class Booking{
+class Booking22{
     returnTime() {
         var d = new Date();
         var currentTime= d.getTime();
